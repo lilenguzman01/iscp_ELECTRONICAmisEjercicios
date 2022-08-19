@@ -1,2 +1,2 @@
-# iscp_BaseDatos
-repositorio con el escript de la actividad
+# iscp_Electronia
+ejercicios que dan en la materia que voy haciendo
